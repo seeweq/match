@@ -15,8 +15,7 @@ function Datefunction(){
   var secondSelection = document.getElementById('sndDate').value;
   var inputTwo = new Date(secondSelection)
   var newDate2 = inputTwo.getDay()
-
-
+  
 if(newDate === newDate2){
   selectAllDays[newDate2].classList.add('sameDay')
 }
