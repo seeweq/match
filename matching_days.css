@@ -1,0 +1,32 @@
+body {
+  color: #510c66;
+  background-color: #e509e1
+}
+th{
+  border: solid;
+  padding: 1em;
+  padding-right: 1em;
+}
+h1{
+  text-align: center;
+  font-size: 80px;
+}
+#mytable{
+  margin-top: 10em;
+}
+input{
+  text-align: center;
+}
+#diffDates{
+  margin-top: 40px;
+  text-align: center;
+}
+.colour1{
+  background-color: red;
+}
+.colour2{
+  background-color: blue;
+}
+.sameDay{
+  background-color: green;
+}
